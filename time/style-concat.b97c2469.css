@@ -1,0 +1,152 @@
+@font-face {
+  font-family: "ac-font";
+  src: url('ac-font.86556c80.eot'), 
+    url('ac-font.86556c80.eot?#iefix') format('eot'),
+    url('ac-font.9f3e4758.woff') format('woff'),
+    url('ac-font.86806fa4.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.ac:before {
+  display: inline-block;
+  font-family: "ac-font";
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  vertical-align: middle;
+    display: inline-block;
+}
+
+.ac-lg {
+  font-size: 1.3333333333333333em;
+  line-height: 0.75em;
+  vertical-align: -15%;
+}
+.ac-2x { font-size: 2em; }
+.ac-3x { font-size: 3em; }
+.ac-4x { font-size: 4em; }
+.ac-5x { font-size: 5em; }
+.ac-fw {
+  width: 1.2857142857142858em;
+  text-align: center;
+}
+
+.ac-arrow:before { content: "\EA01" }
+.ac-arrow2:before { content: "\EA02" }
+.ac-arrow3:before { content: "\EA03" }
+.ac-arrow_left:before { content: "\EA04" }
+.ac-arrow_right:before { content: "\EA05" }
+.ac-close:before { content: "\EA06" }
+.ac-code:before { content: "\EA07" }
+.ac-Contactus_email:before { content: "\EA08" }
+.ac-Contactus_loaction:before { content: "\EA09" }
+.ac-Contactus_tel:before { content: "\EA0A" }
+.ac-Contactus_Time:before { content: "\EA0B" }
+.ac-down:before { content: "\EA0C" }
+.ac-email:before { content: "\EA0D" }
+.ac-faq_close:before { content: "\EA0E" }
+.ac-faq_open:before { content: "\EA0F" }
+.ac-faq_question:before { content: "\EA10" }
+.ac-fb:before { content: "\EA11" }
+.ac-foot_left:before { content: "\EA12" }
+.ac-foot_right:before { content: "\EA13" }
+.ac-haha:before { content: "\EA14" }
+.ac-icon-basic-info:before { content: "\EA15" }
+.ac-icon-bid:before { content: "\EA16" }
+.ac-icon-bonus-details:before { content: "\EA17" }
+.ac-icon-estock:before { content: "\EA18" }
+.ac-icon-event:before { content: "\EA19" }
+.ac-icon-history:before { content: "\EA1A" }
+.ac-icon-member-transfer:before { content: "\EA1B" }
+.ac-icon-member1:before { content: "\EA1C" }
+.ac-icon-member2:before { content: "\EA1D" }
+.ac-icon-member3:before { content: "\EA1E" }
+.ac-icon-money-transfer:before { content: "\EA1F" }
+.ac-icon-networkB:before { content: "\EA20" }
+.ac-icon-old-member:before { content: "\EA21" }
+.ac-icon-online-payment:before { content: "\EA22" }
+.ac-icon-PendingOrder:before { content: "\EA23" }
+.ac-icon-points-upgrate:before { content: "\EA24" }
+.ac-icon-priority-index:before { content: "\EA25" }
+.ac-icon-record:before { content: "\EA26" }
+.ac-icon-related-act:before { content: "\EA27" }
+.ac-icon-security:before { content: "\EA28" }
+.ac-icon-union-regist:before { content: "\EA29" }
+.ac-icon-union:before { content: "\EA2A" }
+.ac-icon-vote:before { content: "\EA2B" }
+.ac-icon_800:before { content: "\EA2C" }
+.ac-icon_ActionClubRecord:before { content: "\EA2D" }
+.ac-icon_BidCentre:before { content: "\EA2E" }
+.ac-icon_DoubleLeftArrow:before { content: "\EA2F" }
+.ac-icon_DoubleRightArrow:before { content: "\EA30" }
+.ac-icon_down:before { content: "\EA31" }
+.ac-icon_HighestPrice:before { content: "\EA32" }
+.ac-icon_IndexMarket:before { content: "\EA33" }
+.ac-icon_Info:before { content: "\EA34" }
+.ac-icon_KChart:before { content: "\EA35" }
+.ac-icon_Language:before { content: "\EA36" }
+.ac-icon_LastPrice:before { content: "\EA37" }
+.ac-icon_LineChart-01:before { content: "\EA38" }
+.ac-icon_Logout:before { content: "\EA39" }
+.ac-icon_LowestPrice:before { content: "\EA3A" }
+.ac-icon_MarketIndex:before { content: "\EA3B" }
+.ac-icon_MemberTransfer:before { content: "\EA3C" }
+.ac-icon_News:before { content: "\EA3D" }
+.ac-icon_NewsActive:before { content: "\EA3E" }
+.ac-icon_NewsActivePoint:before { content: "\EA3F" }
+.ac-icon_NewsCentre:before { content: "\EA40" }
+.ac-icon_Notice:before { content: "\EA41" }
+.ac-icon_NoticeActive-01:before { content: "\EA42" }
+.ac-icon_NoticeActive-02:before { content: "\EA43" }
+.ac-icon_NoticeActive:before { content: "\EA44" }
+.ac-icon_NoticeActivePoint:before { content: "\EA45" }
+.ac-icon_OpeningPrice:before { content: "\EA46" }
+.ac-icon_PersonalIndex:before { content: "\EA47" }
+.ac-icon_Register:before { content: "\EA48" }
+.ac-icon_SecuritySetting:before { content: "\EA49" }
+.ac-icon_Star:before { content: "\EA4A" }
+.ac-icon_TeamMember:before { content: "\EA4B" }
+.ac-icon_up:before { content: "\EA4C" }
+.ac-icon_User:before { content: "\EA4D" }
+.ac-ig:before { content: "\EA4E" }
+.ac-language:before { content: "\EA4F" }
+.ac-livechat:before { content: "\EA50" }
+.ac-logo:before { content: "\EA51" }
+.ac-phone-bubble:before { content: "\EA52" }
+.ac-pw:before { content: "\EA53" }
+.ac-star:before { content: "\EA54" }
+.ac-up:before { content: "\EA55" }
+.ac-user:before { content: "\EA56" }
+body {
+  margin: 0px;
+  padding: 0px;
+  position: relative;
+  font-size: 0; }
+
+div {
+  box-sizing: border-box; }
+
+a:link, a:visited, a:hover, a:active {
+  text-decoration: none;
+  color: unset; }
+
+h1, h2, h3, h4, p {
+  margin: 0; }
+
+* {
+  outline: none; }
+
+html,
+body {
+  position: fixed; }
+
+#canvas {
+  width: 100%;
+  height: 100%; }
+
+/*# sourceMappingURL=style.css.map */
